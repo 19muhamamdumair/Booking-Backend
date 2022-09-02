@@ -1,0 +1,1 @@
+if debug_mode=true you can send original errors to client   
